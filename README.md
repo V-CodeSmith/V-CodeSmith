@@ -2,9 +2,6 @@
 <h3 align="center">
     <!-- Trophy cards -->
    <img width="1700" height="460" alt="github-header-banne-mmdr" src="https://github.com/user-attachments/assets/79b0e221-22f5-4afe-88c9-f90bcb59e949" />
-
-    <br><br><br>  
-    <br>
 </h3>
 <br>
 
