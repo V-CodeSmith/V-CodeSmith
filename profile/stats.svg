@@ -9,11 +9,11 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohammad Azhdari&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 55, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  : 57, Total PRs: 0, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #D71921;
+            fill: #97fb00;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #D71921;
+      fill: #97fb00;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #D71921;
+      stroke: #97fb00;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #D71921;
+      stroke: #97fb00;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 223.52558885579532;
+        stroke-dashoffset: 223.4697307221182;
       }
     }
   
@@ -187,7 +187,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >55</text>
+      >57</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
