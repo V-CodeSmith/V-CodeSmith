@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=V-CodeSmith&show_icons=true&bg_color=00000000&title_color=D71921&text_color=E0E0E0&icon_color=D71921&hide_border=true&rank_icon=percentile&include_all_commits=true
+          options: username=V-CodeSmith&show_icons=true&bg_color=00000000&title_color=97fb00&text_color=E0E0E0&icon_color=97fb00&hide_border=true&rank_icon=percentile&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -36,7 +36,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=V-CodeSmith&layout=compact&langs_count=10&bg_color=00000000&title_color=D71921&text_color=E0E0E0&hide_border=true
+          options: username=V-CodeSmith&layout=compact&langs_count=10&bg_color=00000000&title_color=97fb00&text_color=E0E0E0&hide_border=true
           path: profile/top-langs-compact.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=V-CodeSmith&layout=donut&langs_count=8&bg_color=00000000&title_color=D71921&text_color=E0E0E0&hide_border=true
+          options: username=V-CodeSmith&layout=donut&langs_count=8&bg_color=00000000&title_color=97fb00&text_color=E0E0E0&hide_border=true
           path: profile/top-langs-donut.svg
           token: ${{ secrets.PAT_TOKEN }}
 
@@ -52,14 +52,14 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=V-CodeSmith&layout=pie&langs_count=8&bg_color=00000000&title_color=D71921&text_color=E0E0E0&hide_border=true
+          options: username=V-CodeSmith&layout=pie&langs_count=8&bg_color=00000000&title_color=97fb00&text_color=E0E0E0&hide_border=true
           path: profile/top-langs-pie.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate Streak Card (Transparent, readable numbers)
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=V-CodeSmith&background=00000000&hide_border=true&ring=D71921&fire=D71921&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=D71921&sideLabels=E0E0E0&dates=6B6B6B&stroke=D71921
+          options: user=V-CodeSmith&background=00000000&hide_border=true&ring=97fb00&fire=97fb00&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=97fb00&sideLabels=E0E0E0&dates=6B6B6B&stroke=97fb00
           path: profile/streak.svg
           token: ${{ secrets.PAT_TOKEN }}
 
