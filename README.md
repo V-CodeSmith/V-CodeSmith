@@ -25,6 +25,14 @@ Currently: fullstack with a Vue/Nuxt focus, remote-first from Ardabil, Iran. Ope
 
 <br>
 
+### ＃ ACTIVITY
+<p align="center">
+  <img width="55%" src="./profile/stats.svg" />
+  <img width="290px" src="./profile/top-langs-compact.svg" />
+</p>
+
+<br>
+
 ### ＃ Tech Stack
 
 <table width="100%">
@@ -54,6 +62,13 @@ Currently: fullstack with a Vue/Nuxt focus, remote-first from Ardabil, Iran. Ope
   </tr>
 </table>
 
+
+<br>
+
+### ＃ STREAK
+<p align="center">
+  <img src="./profile/streak.svg" />
+</p>
 
 <br>
 
