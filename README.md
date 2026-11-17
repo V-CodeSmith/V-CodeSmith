@@ -6,7 +6,7 @@
 </h3>
 <br>
 
-<h3 align="center">Vue 3 & Nuxt 4 frontends (TS) ● Laravel & PHP backends ● Python ● Fullstack from Iran</h3>
+<h3 align="center">Vue 3 & Nuxt 4 frontends (JS/TS) ● Laravel & PHP backends ● Python ● Fullstack from Iran</h3>
 <p align="center">
     <em>Fullstack developer · 4 years of production work · Member of <a href="https://github.com/kowshan">Kowshan</a></em>
 </p>
