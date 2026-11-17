@@ -7,10 +7,15 @@
 <br>
 
 <h3 align="center">Vue 3 & Nuxt 4 frontends (TS) ● Laravel & PHP backends ● Python ● Fullstack from Iran</h3>
-
 <p align="center">
-    <em>Fullstack developer · 4 years of production work · Member of <a href="https://kowshan-ui-kit.pages.dev/">Kowshan</a></em>
+    <em>Fullstack developer · 4 years of production work · Member of <a href="https://github.com/kowshan">Kowshan</a></em>
 </p>
+<p align="center">
+    <a href="https://gitranks.com/profile/V-CodeSmith/country"><img src="https://gitranks.com/badge/user/V-CodeSmith/rank.svg?scope=country&amp;scheme=custom&amp;left=%2397fb00&amp;right=%23000000" alt="V-CodeSmith on GitRanks: stars rank #1,121 in Iran · top 30%"></a>
+    <a href="https://gitranks.com/profile/V-CodeSmith/country"><img src="https://gitranks.com/badge/user/V-CodeSmith/rank.svg?by=followers&amp;scope=country&amp;scheme=custom&amp;left=%2397fb00&amp;right=%23000000" alt="V-CodeSmith on GitRanks: followers rank #219 in Iran · top 3%"></a>
+</p>
+
+
 
 ---
 
