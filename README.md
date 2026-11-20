@@ -6,6 +6,14 @@
 </h3>
 <br>
 
+<h1 align="center">Mohammad Azhdari · محمد اژدری</h1>
+<p align="center">
+    <em>Online as <a href="https://github.com/V-CodeSmith">V-CodeSmith</a> — fullstack developer, Vue 3 / Nuxt 4 frontends and Laravel / PHP backends, remote from Ardabil, Iran</em>
+</p>
+<p align="center">
+    Portfolio: <a href="https://v-codesmith.github.io">v-codesmith.github.io</a>
+</p>
+
 <h3 align="center">Vue 3 & Nuxt 4 frontends (JS/TS) ● Laravel & PHP backends ● Python ● Fullstack from Iran</h3>
 <p align="center">
     <em>Fullstack developer · 4 years of production work · Member of <a href="https://github.com/kowshan">Kowshan</a></em>
